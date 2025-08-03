@@ -2,6 +2,11 @@
 
 Proyecto realizado siguiendo el curso de Astro de [midudev](https://midu.dev), mostrando los lanzamientos de SpaceX con una interfaz moderna y responsiva.
 
+## 🚀 Demo en producción
+
+Puedes ver el proyecto desplegado en Vercel aquí:  
+[https://curso-astro-spacex.vercel.app/](https://curso-astro-spacex.vercel.app/)
+
 ## ✨ Descripción
 
 Esta aplicación web permite consultar información sobre los lanzamientos de SpaceX, mostrando detalles, imágenes y el estado de cada misión. Utiliza [Astro](https://astro.build/) como framework principal y [TailwindCSS](https://tailwindcss.com/) para los estilos.
